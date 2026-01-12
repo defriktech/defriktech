@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I’m Friday Uche
 
-<!--
-**defriktech/defriktech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a security-minded **Infrastructure & DevOps Engineer** with over **4 years of hands-on experience** in server administration, cloud platforms, automation, and enterprise IT operations.
 
-Here are some ideas to get you started:
+I combine strong **systems knowledge** with a growing focus on **defensive security, DFIR, and malware analysis**, bridging the gap between how systems are built and how they are attacked.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 Security & DFIR Focus
+- Memory forensics using **Volatility (v2/v3)**
+- Fileless malware detection and process injection analysis
+- Kernel-level rootkit investigation (e.g., FinFisher / R2D2)
+- IOC extraction, correlation, and forensic reporting
+- Incident response and SOC-oriented analysis
+
+---
+
+## ⚙️ Infrastructure & DevOps Experience
+- **Windows & Linux** server administration
+- Active Directory, Group Policy, SCCM, Intune
+- **Docker, Kubernetes**
+- CI/CD with **Jenkins, GitLab CI/CD**
+- Infrastructure as Code: **Ansible, Terraform**
+- Cloud platforms: **Azure, AWS, Google Cloud**
+- Networking: DNS, DHCP, VPNs, firewalls
+
+---
+
+## 🧪 Selected Projects
+- 🧠 **Memory Forensics: Cridex & R2D2 Malware Analysis**  
+  Volatile memory investigation proving fileless malware, manual PE mapping, kernel rootkits, and C2 communication using Volatility.
+
+- 🚀 **DevOps & Automation Projects**  
+  CI/CD pipelines, containerized deployments, and automated infrastructure provisioning.
+
+*(See pinned repositories below for details.)*
+
+---
+
+## 🎓 Education & Certifications
+- MSc Information Security — *Luleå University of Technology* (ongoing)
+- ISC2 – Certified in Cybersecurity
+- Google IT Support Professional
+- Windows Server 2022 Essentials
+- Microsoft 365 for Administrators
+
+---
+
+## 🎯 Interests
+- DevSecOps & secure infrastructure design
+- SOC operations and threat detection
+- Malware tradecraft and attacker techniques
+- Incident response automation
+
+---
+
+📫 **Let’s connect:**  
+- GitHub: https://github.com/defriktech  
+- LinkedIn: https://linkedin.com/in/fridayuche
