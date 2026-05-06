@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Friday Uche
+# 👋 Hi, I’m Friday Uchechukwu Uzodinma
 
 I’m a security-minded **Infrastructure & DevOps Engineer** with over **4 years of hands-on experience** in server administration, cloud platforms, automation, and enterprise IT operations.
 
