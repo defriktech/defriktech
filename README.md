@@ -2,20 +2,11 @@
 
 I’m a security-minded **Infrastructure & DevOps Engineer** with over **4 years of hands-on experience** in server administration, cloud platforms, automation, and enterprise IT operations.
 
-I combine strong **systems knowledge** with a growing focus on **defensive security, DFIR, and malware analysis**, bridging the gap between how systems are built and how they are attacked.
+I combine strong **systems knowledge** with a growing focus on **defensive security, DFIR, and Security Operations (SecOps)**, bridging the gap between how systems are built and how they are attacked.
 
 ---
 
-## 🔐 Security & DFIR Focus
-- Memory forensics using **Volatility (v2/v3)**
-- Fileless malware detection and process injection analysis
-- Kernel-level rootkit investigation (e.g., FinFisher / R2D2)
-- IOC extraction, correlation, and forensic reporting
-- Incident response and SOC-oriented analysis
-
----
-
-## ⚙️ Infrastructure & DevOps Experience
+##   Infrastructure & DevOps Experience
 - **Windows & Linux** server administration
 - Active Directory, Group Policy, SCCM, Intune
 - **Docker, Kubernetes**
@@ -26,14 +17,21 @@ I combine strong **systems knowledge** with a growing focus on **defensive secur
 
 ---
 
-## 🧪 Selected Projects
-- 🧠 **Memory Forensics: Cridex & R2D2 Malware Analysis**  
-  Volatile memory investigation proving fileless malware, manual PE mapping, kernel rootkits, and C2 communication using Volatility.
+##   Security & DFIR Focus
+- Memory forensics using **Volatility (v2/v3)**
+- Fileless malware detection and process injection analysis
+- Kernel-level rootkit investigation (e.g., FinFisher / R2D2)
+- IOC extraction, correlation, and forensic reporting
+- Incident response and SOC-oriented analysis
+---
 
-- 🚀 **DevOps & Automation Projects**  
+##   Selected Projects
+-   **DevOps & Automation Projects**  
   CI/CD pipelines, containerized deployments, and automated infrastructure provisioning.
 
 *(See pinned repositories below for details.)*
+-   **Memory Forensics: Cridex & R2D2 Malware Analysis**  
+  Volatile memory investigation proving fileless malware, manual PE mapping, kernel rootkits, and C2 communication using Volatility.
 
 ---
 
