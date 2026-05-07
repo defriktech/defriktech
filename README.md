@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Friday Uchechukwu Uzodinma
+# Hi, I’m Friday Uchechukwu Uzodinma
 
 I’m a security-minded **Infrastructure & DevOps Engineer** with over **4 years of hands-on experience** in server administration, cloud platforms, automation, and enterprise IT operations.
 
@@ -19,8 +19,6 @@ I combine strong **systems knowledge** with a growing focus on **defensive secur
 
 ##   Security & DFIR Focus
 - Memory forensics using **Volatility (v2/v3)**
-- Fileless malware detection and process injection analysis
-- Kernel-level rootkit investigation (e.g., FinFisher / R2D2)
 - IOC extraction, correlation, and forensic reporting
 - Incident response and SOC-oriented analysis
 ---
